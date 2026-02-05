@@ -1,0 +1,1 @@
+# Todo App\n\nA simple, responsive todo application with dark mode support.\n\n## Features\n- Add, complete, and delete tasks\n- LocalStorage persistence\n- Mobile-first responsive design\n- Dark mode support\n- Accessibility features
